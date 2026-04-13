@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=AI+Systems+%7C+Quantum+Projects+%7C+Cloud+Products;Hackathons%2C+Startups%2C+and+Real-World+Workflows;Off+the+keyboard%3A+Badminton+and+Diablo+IV" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=AI+Systems+%7C+Quantum+Computing+%7C+Cloud+Products;Hackathons%2C+Startups%2C+and+Real-World+Workflows;Off+the+keyboard%3A+Badminton+and+Diablo+IV" />
 </p>
 
 <h3 align="center">
-  CS + MSCS student at De La Salle University | Former DevOps Intern at P&G SK-II | Building AI, quantum, and cloud products
+  CS + MSCS student at De La Salle University | Building AI, quantum, and cloud products
 </h3>
 
 ---
@@ -26,39 +26,17 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,python,react,nextjs,nodejs,postgres,docker,aws,azure,kubernetes,pytorch,tensorflow,tailwind,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,react,nextjs,nodejs,java,postgres,docker,aws,azure,kubernetes,pytorch,tensorflow&perline=7" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[fylo-support-intelligence](https://github.com/roivroberto/fylo-support-intelligence)** — AI-native support operations platform with automated triage, response drafting, and a live workspace built with Next.js and Convex
+- **[Fylo](https://github.com/roivroberto/fylo-support-intelligence)** — AI-native support operations platform with automated triage, response drafting, and a live workspace built with Next.js and Convex
+- **[Qantara](https://github.com/roivroberto/quantum-sustainable-investments)** — Quantum-powered ESG portfolio optimization using QAOA on Quantinuum hardware
 - **[Qu-Alz](https://github.com/roivroberto/Qu-Alz)** — Quantum-enhanced platform for early Alzheimer’s detection and risk assessment using MRI biomarkers
-- **[quantum-sustainable-investments](https://github.com/roivroberto/quantum-sustainable-investments)** — Quantum-powered ESG portfolio optimization using QAOA on Quantinuum hardware
-- **[sabay-publish](https://github.com/roivroberto/sabay-publish)** — Bilingual English-Filipino news publishing prototype for accessible journalism
-- **[medrec-sentinel](https://github.com/roivroberto/medrec-sentinel)** — Audit-first medication reconciliation workflow for discharge systems
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=roivroberto&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=roivroberto&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roivroberto&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roivroberto&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+- **[MedRec Sentinel](https://github.com/roivroberto/medrec-sentinel)** — Audit-first medication reconciliation workflow for discharge systems
 
 ---
 
@@ -68,8 +46,9 @@
   <a href="https://www.linkedin.com/in/roivroberto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/roivroberto">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://rvproberto.com/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
