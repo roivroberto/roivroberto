@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,python,react,nextjs,nodejs,java,postgres,docker,aws,azure,kubernetes,pytorch,tensorflow&perline=7" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,react,nextjs,nodejs,java,postgres,docker,aws,azure,kubernetes,pytorch,tensorflow,git&perline=7" />
 </p>
 
 ---
@@ -46,7 +46,6 @@
   <a href="https://www.linkedin.com/in/roivroberto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://rvproberto.com/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
